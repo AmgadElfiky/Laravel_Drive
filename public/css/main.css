@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: red;
+    background-image: url("../img/back.jpg");
+    background-repeat: round;
+    background-position: center; 
+    background-attachment: fixed;
+}
+
+.card {
+    background-color: #333;
+    color: red;
+}
